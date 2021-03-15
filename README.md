@@ -6,7 +6,7 @@ The purpose of this project is to create a website with a dynamic table that dis
 
 Resources
 - Software: Visual Studio Code 1.49.1, HTML/CSS, JavaScript. 
-- Data Source: UFO data -  [ufo_starterCode.js](https://github.com/Marietas/UFOs/blob/main/static/js/data.js) and [index.html] (https://github.com/Marietas/UFOs/blob/main/index.html)
+- Data Source: UFO data -  [ufo_starterCode.js](https://github.com/Marietas/UFOs/blob/main/static/js/data.js) and [index.html](https://github.com/Marietas/UFOs/blob/main/index.html)
 
 ## Results
 
