@@ -14,3 +14,5 @@ The results are shown in the new structure of the website.
 
 
 The new website offers the flexibility to filter the information located in the main table by using the new search fields with additional options such as city, state, country, and shape. 
+
+## Summary
