@@ -12,6 +12,15 @@ Resources
 
 The results are shown in the new structure of the website.
 
+Fig. 1 - Website
+
+![](https://github.com/Marietas/UFOs/blob/main/static/images/page%201.PNG)
+
+Fig. 2 - Search data on the website
+
+![](https://github.com/Marietas/UFOs/blob/main/static/images/page%202.PNG)
+
+
 
 The new website offers the flexibility to filter the information located in the main table by using the new search fields with additional options such as city, state, country, and shape. 
 
